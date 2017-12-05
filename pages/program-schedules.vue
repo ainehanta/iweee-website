@@ -12,11 +12,15 @@
         <section class="step">
           <h4 class="step-head">Thursday, 7th December 2017</h4>
           <div class="step-content">
-            <p>Students' Poster Presentation</p>
+            <p>Oral Presentation and Students' Poster Presentation</p>
           </div>
         </section>
       </div>
-      <p class="mdl-typography--text-center">(details will be updated later)</p>
+      <p class="mdl-typography--text-center">
+        <a href="IWEEE2017FinalProgram.pdf" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">Download Program Schedule</a>
+        <!-- (details will be updated later) -->
+      </p>
+
     </div>
   </PageArticle>
 </template>
