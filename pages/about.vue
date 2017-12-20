@@ -46,7 +46,7 @@
               <li>Dr. Dhundi Raj Pathak, Engineering Study and Research Center, Kathmandu, Nepal</li>
               <li>Dr. Jiafeng Yao, Nanjing University of Aeronautics and Astronautics, Nanjing, China</li>
               <li>Dr. Tong Zhao, Xian Institute of Technology, Xian, China</li>
-              <li>Dr. Zhanbolat Shahmov, Eurasian National University, Astana, Kazakhstan</li>
+              <li>Dr. Zhanbolat Shakhmov, Eurasian National University, Astana, Kazakhstan</li>
               <li>Dr. Phyoe Wai Htun,Mandalay Technological University, Mandalay, Myanmar</li>
               <li>Dr. Hima Bindu Venigalla, GITAM University, Hyderabad, India</li>
               <li>Dr. Anil Kumar Kambhampati, Jeju National University, Jeju, South Korea</li>

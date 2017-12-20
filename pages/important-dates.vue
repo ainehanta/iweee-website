@@ -22,13 +22,13 @@
           </div>
         </section>
         <section class="step">
-          <h4 class="step-head">Monday, 18th December</h4>
+          <h4 class="step-head">Monday, 18th January 2018</h4>
           <div class="step-content">
             <p>Submission of Revised Abstract for Proceedings Publication</p>
           </div>
         </section>
         <section class="step">
-          <h4 class="step-head">Monday, 22nd January 2018</h4>
+          <h4 class="step-head">Monday, 22nd February 2018</h4>
           <div class="step-content">
             <p>Notification of Acceptance of Revised Abstract for Proceedings Publication</p>
           </div>
